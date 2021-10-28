@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="PhoneBookMaven-1.0-SNAPSHOT.war">
+    <root id="archive" name="phoneBookMaven-web.war">
       <element id="artifact" artifact-name="PhoneBookMaven:war exploded" />
     </root>
   </artifact>
